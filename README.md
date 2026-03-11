@@ -31,8 +31,8 @@ Meu objetivo com este curso é  crescer cada vez mais com novas expêriencias, t
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [Nome do Projeto]  
-📌 Projeto 2 – [Nome do Projeto]  
-📌 Projeto 3 – [Nome do Projeto]  
+📌 – HTML 
+📌 – Phyton
+📌 – Bancos de Dados 
 
 ---
